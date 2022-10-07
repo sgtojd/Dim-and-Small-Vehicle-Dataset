@@ -10,4 +10,4 @@ For the picked images up to 3225, we labeled the vehicles thoroughly using the r
 •	The image covers a wide area and various complex scenes, such as parking lots, roads, neighborhoods, etc.
 
 ## Dataset Resource
-The dataset is avaliable on the link  https://pan.baidu.com/s/1HKBFrgTNDsOInnK0w6qyOg. The extration password is _tcjr_. And the decompression password is _dimandsmallvehicle_ .![image](https://user-images.githubusercontent.com/61158621/194509336-128d679e-7450-4787-aa2e-e7a067547fbf.png). If you need to use our dataset to make research, please cite our essay **(The essay is under review and we will update the link when it is accpted)**.
+The dataset is avaliable on the link  https://pan.baidu.com/s/1HKBFrgTNDsOInnK0w6qyOg. The extration password is _tcjr_. And the decompression password is _dimandsmallvehicle_. If you need to use our dataset to make research, please cite our essay **(The essay is under review and we will update the link when it is accpted)**.
