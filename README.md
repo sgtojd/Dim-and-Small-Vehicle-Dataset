@@ -27,3 +27,8 @@ The dataset is avaliable on the link  https://pan.baidu.com/s/1HKBFrgTNDsOInnK0w
   publisher={MDPI}
 }
 ~~~
+
+## Contact
+If you have any the problem or feedback in using CORS-ADD, please contact
+
+Tianjun Shi at **shitianjun@stu.hit.edu.cn**.
