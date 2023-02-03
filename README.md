@@ -9,7 +9,7 @@ For the picked images up to 3225, we labeled the vehicles thoroughly using the r
 
 •	The image covers a wide area and various complex scenes, such as parking lots, roads, neighborhoods, etc.
 
-## Dataset Resource
+## Dataset Resource and Usage License
 The dataset is avaliable on the link  https://pan.baidu.com/s/1HKBFrgTNDsOInnK0w6qyOg. The extration password is _tcjr_. And the decompression password is _dimandsmallvehicle_.  If you want use our dataset, please follows these rules:
 
 • All images and their associated annotations in DSVD can be used for academic purposes only, but any commercial use is prohibited.
