@@ -29,6 +29,6 @@ The dataset is avaliable on the link  https://pan.baidu.com/s/1HKBFrgTNDsOInnK0w
 ~~~
 
 ## Contact
-If you have any the problem or feedback in using CORS-ADD, please contact
+If you have any the problem or feedback in using DSVD, please contact
 
 Tianjun Shi at **shitianjun@stu.hit.edu.cn**.
